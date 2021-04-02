@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and nodejs
 - 📫 Reach me through my email cates.sayagen@gmail.com
-- Check my portfolio cates-portfolio.ml
+- Check my portfolio www.cates-portfolio.ml
 
 <!---
 cates-git/cates-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
