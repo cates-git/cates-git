@@ -1,6 +1,5 @@
 - 👋 Hi, I’m cate
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and nodejs
 - 📫 Reach me through my email cates.sayagen@gmail.com
 - Check my portfolio www.cates-portfolio.ml
 
